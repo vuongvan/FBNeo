@@ -3,7 +3,7 @@
 #include "version.h"
 #include "burnint.h"
 #include "timer.h"
-//#include "burn_sound.h" // included in burnint.h
+//#include "burn_sound.h" // included in burnint.h tt
 #include "driverlist.h"
 
 #ifdef BUILD_WIN32
